@@ -9,7 +9,7 @@ Hermite Spline 彩虹花瓣生成器
 使用 Tkinter GUI 中的滑桿調整花瓣的數量。
 觀察在修改花瓣數量時 Matplotlib 圖中的動態變化。
 自訂影片演示
-欲獲得有關程式功能和使用詳細，請看以下影片。 
-[影片]([url](https://youtu.be/ba9iXtSOSfk)https://youtu.be/ba9iXtSOSfk)
+欲獲得有關程式功能和使用詳細，請看以下影片 
+[連結]([url](https://youtu.be/ba9iXtSOSfk)https://youtu.be/ba9iXtSOSfk)
 
 

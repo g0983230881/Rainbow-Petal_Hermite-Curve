@@ -10,6 +10,6 @@ Hermite Spline 彩虹花瓣生成器
 觀察在修改花瓣數量時 Matplotlib 圖中的動態變化。
 自訂影片演示
 欲獲得有關程式功能和使用詳細，請看以下影片。 
-https://github.com/g0983230881/Rainbow-Petal_Hermite-Curve/assets/54482415/d8dc42cd-8cf3-43b5-a88b-e8fad4a022f8
+[影片]([url](https://youtu.be/ba9iXtSOSfk)https://youtu.be/ba9iXtSOSfk)
 
 
